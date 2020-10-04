@@ -4,6 +4,18 @@ export const PodcastDetailsContentWrapper = styled.div`
   width: 90%;
   margin: 100px auto;
   height: 100vh;
+ 
+  @media screen and (min-width: 768px) and (max-width: 999px) {
+    width: 70%;
+  }
+  
+  @media screen and (min-width: 1440px) {      
+    width: 65%;
+  }
+  
+  @media screen and (min-width: 1441px) {
+    width: 35%;
+  }
 `;
 
 export const PodcastDetailsHeader = styled.div`

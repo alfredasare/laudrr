@@ -5,8 +5,8 @@ import PodcastDetailsContent from "../../src/components/podcast-details-content/
 const PodcastDetails = () => {
     return (
         <>
-        <NavBar />
-        <PodcastDetailsContent />
+            <NavBar />
+            <PodcastDetailsContent />
         </>
     );
 };
