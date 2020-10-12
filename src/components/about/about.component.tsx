@@ -5,7 +5,7 @@ const About = () => {
         <AboutWrapper>
             <AboutContent>
                 <h1>
-                    About laudrr.
+                    About laudrr
                 </h1>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda at blanditiis, dolores doloribus

@@ -4,20 +4,24 @@ import Link from "next/link";
 
 const PodcastItem = () => {
     return (
-        <Link href="/feed">
-            <a>
-                <PodcastItemWrapper>
-                    <PodcastImageWrapper>
-                        <img src="/images/mildly-useful-N_xjrdKZPkw-unsplash.jpg" alt=""/>
-                    </PodcastImageWrapper>
+        <PodcastItemWrapper>
+            <PodcastImageWrapper>
+                <Link href="/feed">
+                    <a>
+                        <img src="/images/images.jpg" alt=""/>
+                    </a>
+                </Link>
+            </PodcastImageWrapper>
 
-                    <PodcastTitleContainer>
+            <PodcastTitleContainer>
+                <Link href="/feed">
+                    <a>
                         <p>Episode Title</p>
                         <p>Channel Name</p>
-                    </PodcastTitleContainer>
-                </PodcastItemWrapper>
-            </a>
-        </Link>
+                    </a>
+                </Link>
+            </PodcastTitleContainer>
+        </PodcastItemWrapper>
     );
 };
 

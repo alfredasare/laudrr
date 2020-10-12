@@ -10,7 +10,7 @@ interface PodcastListProps {
 
 const Carousel = dynamic(
     () => import('react-owl-carousel-safe'),
-    { ssr: false }
+    {ssr: false}
 );
 
 const PodcastList: FC<PodcastListProps> = ({items}) => {
@@ -20,27 +20,39 @@ const PodcastList: FC<PodcastListProps> = ({items}) => {
         responsive: {
             0: {
                 items: 3,
-                margin: 100
+                margin: 120
+            },
+            281: {
+                items: 3,
+                margin: 70
+            },
+            321: {
+                items: 3,
+                margin: 40
+            },
+            500: {
+                items: 4,
+                margin: 30
             },
             768: {
                 items: 4,
-                margin: 20
+                margin: 30
             },
-            1000: {
+            1024: {
                 items: 5,
-                margin: 20
+                margin: 30
+            },
+            1200: {
+                items: 5,
+                margin: 50
             },
             1440: {
-                items:5,
-                margin: 20
+                items: 5,
+                margin: 10
             },
-            1800: {
-                items: 6,
-                margin: 0
-            },
-            2100: {
-                items: 8,
-                margin: 0
+            2000: {
+                items: 5,
+                margin: -150
             }
         }
     }
@@ -53,7 +65,7 @@ const PodcastList: FC<PodcastListProps> = ({items}) => {
                     items.map(item => {
                         return (
                             <div key={uuid()} className="item">
-                                <PodcastItem />
+                                <PodcastItem/>
                             </div>
                         );
                     })

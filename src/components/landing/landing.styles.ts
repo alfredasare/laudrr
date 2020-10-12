@@ -16,7 +16,8 @@ export const LandingWrapper = styled.header`
   }
   
   @media screen and (min-width: 1101px) {
-    height: 110vh;
+    height: 100vh;
+    margin-bottom: 0;
   }
  
 `;

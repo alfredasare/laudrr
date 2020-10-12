@@ -50,7 +50,7 @@ const PodcastDetailsContent: FC = () => {
 
             <AvailableEpisodesWrapper>
                 <h3>Available Episodes</h3>
-                <EpisodeList />
+                <EpisodeList items={[11,12,13,14,15,16,17]}/>
             </AvailableEpisodesWrapper>
 
         </PodcastDetailsContentWrapper>

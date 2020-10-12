@@ -14,13 +14,12 @@ export const AboutWrapper = styled.section`
   }
   
   @media screen and (min-width: 1101px) {
-    margin: 200px auto 60px auto;
+    margin: 250px auto 60px auto;
   }
 `;
 
 export const AboutContent = styled.div`
   width: 100%;
-
 
   @media screen and (min-width: 769px) {
     width: 50%;
@@ -42,7 +41,7 @@ export const AboutContent = styled.div`
     font-size: ${typeScale.paragraph};
     
     @media screen and (min-width: 768px) {
-      font-size: 1.1rem;
+      font-size: 1.3rem;
       line-height: 2rem;
     }
   }

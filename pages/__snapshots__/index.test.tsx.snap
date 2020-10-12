@@ -1,0 +1,271 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`home page tests snapshot test of home page 1`] = `
+<div>
+  <nav
+    class="navbarstyles__NavBarContainer-sc-1pztcqj-0 hUiMcF"
+  >
+    <div
+      class="overlay-menustyles__Overlay-sc-145g2zn-0 fejWqs"
+    >
+      <div
+        aria-hidden="true"
+        class="overlay-menustyles__StyledMenu-sc-145g2zn-1 eTVqaK"
+      >
+        <a
+          href="/"
+        >
+          <h4
+            aria-hidden="true"
+            class="overlay-menustyles__MenuContent-sc-145g2zn-2 ehknVS"
+          >
+            Home
+          </h4>
+        </a>
+        <a
+          href="/podcasts"
+        >
+          <h4
+            aria-hidden="true"
+            class="overlay-menustyles__MenuContent-sc-145g2zn-2 ehknVS"
+          >
+            Podcasts
+          </h4>
+        </a>
+      </div>
+    </div>
+    <div
+      class="navbarstyles__NavBarRow-sc-1pztcqj-1 eTgmuL"
+    >
+      <a
+        href="/"
+      >
+        <h3
+          class="navbarstyles__NavBarBrand-sc-1pztcqj-2 cSJCOn"
+        >
+          laudrr
+        </h3>
+      </a>
+      <div
+        class="navbarstyles__NavMenuContainer-sc-1pztcqj-3 flkJjd"
+      >
+        <h5
+          class="navbarstyles__NavMenuText-sc-1pztcqj-4 gkKbKA"
+        >
+          menu
+        </h5>
+        <div
+          class="navbarstyles__NavMenuIcon-sc-1pztcqj-5"
+        >
+          <button
+            aria-expanded="false"
+            aria-label="Toggle menu"
+            class="burgerstyles__StyledBurger-sc-1qvklyn-0 daXiwl"
+          >
+            <span />
+            <span />
+            <span />
+          </button>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <header
+    class="landingstyles__LandingWrapper-z1uw92-0 iOUFbK"
+  >
+    <div
+      class="landingstyles__LandingText-z1uw92-1 jhEjbX"
+    >
+      <h1>
+        Podcasts you love to listen to all in one place.
+      </h1>
+    </div>
+    <div
+      class="landingstyles__ImagesWrapper-z1uw92-2 fTohW"
+    >
+      <div
+        class="landingstyles__HorizontalScrollView-z1uw92-3 inDuEH"
+      >
+        <div
+          class="landingstyles__FirstHorizontal-z1uw92-4 cvlSJO"
+        >
+          <img
+            alt=""
+            src="/images/aiony-haust-ZXKL4mwbSRA-unsplash.jpg"
+          />
+        </div>
+        <div
+          class="landingstyles__SecondHorizontal-z1uw92-5 jESAoq"
+        >
+          <img
+            alt=""
+            src="/images/melanie-pongratz-BECWWmIuJ2k-unsplash (1).jpg"
+          />
+        </div>
+        <div
+          class="landingstyles__ThirdHorizontal-z1uw92-6 bdMIvE"
+        >
+          <img
+            alt=""
+            src="/images/max-wolfs-yrVv6pwVp78-unsplash.jpg"
+          />
+        </div>
+      </div>
+    </div>
+  </header>
+  <section
+    class="aboutstyles__AboutWrapper-bjftj1-0 fGnViw"
+  >
+    <div
+      class="aboutstyles__AboutContent-bjftj1-1 iEPExw"
+    >
+      <h1>
+        About laudrr
+      </h1>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda at blanditiis, dolores doloribus et labore molestias non nostrum, odit pariatur placeat praesentium quae repellat reprehenderit sint suscipit tenetur veritatis voluptatum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda at blanditiis, dolores doloribus et labore molestias non nostrum
+      </p>
+    </div>
+  </section>
+  <section
+    class="feature-sectionstyles__FeatureSectionWrapper-sc-8w8z67-0 dnSToV"
+  >
+    <div
+      class="feature-sectionstyles__FeatureImageWrapper-sc-8w8z67-1 jSlEsP"
+    >
+      <img
+        alt="feature-section-image"
+        src="/images/pexels-ekaterina-bolovtsova-4050214 (1).jpg"
+      />
+    </div>
+    <div
+      class="feature-sectionstyles__FeatureTextWrapper-sc-8w8z67-2 fJGuND"
+    >
+      <h4>
+        LISTEN
+      </h4>
+      <h3>
+        Just sit back, relax and keep yourself updated 
+      </h3>
+      <a
+        href="/podcasts"
+      >
+        START LISTENING
+      </a>
+    </div>
+  </section>
+  <section
+    class="follow-channelstyles__FollowChannelWrapper-prioz7-0 fNyVMk"
+  >
+    <div
+      class="follow-channelstyles__FollowChannelText-prioz7-1 bYxaqQ"
+    >
+      <h4>
+        FOLLOW YOUR FAVOURITE CHANNELS
+      </h4>
+      <h3>
+        Subscribe to your favourite channels so you never miss the latest episodes of your favourite shows
+      </h3>
+      <a
+        href="/"
+      >
+        VIEW CHANNELS
+      </a>
+    </div>
+    <div
+      class="follow-channelstyles__FollowChannelImageWrapper-prioz7-2 iQsLEt"
+    >
+      <img
+        alt=""
+        src="/images/nadine-shaabana-U_z9Y0rEIJc-unsplash (1).jpg"
+      />
+    </div>
+  </section>
+  <section
+    class="feature-sectionstyles__FeatureSectionWrapper-sc-8w8z67-0 dnSToV"
+  >
+    <div
+      class="feature-sectionstyles__FeatureImageWrapper-sc-8w8z67-1 jSlEsP"
+    >
+      <img
+        alt="feature-section-image"
+        src="/images/pexels-sound-on-3756858.jpg"
+      />
+    </div>
+    <div
+      class="feature-sectionstyles__FeatureTextWrapper-sc-8w8z67-2 fJGuND"
+    >
+      <h4>
+        LISTEN
+      </h4>
+      <h3>
+        Just sit back, relax and keep yourself updated 
+      </h3>
+      <a
+        href="/podcasts"
+      >
+        START LISTENING
+      </a>
+    </div>
+  </section>
+  <footer
+    class="footerstyles__FooterWrapper-sc-10tn4u7-0 cOoczW"
+  >
+    <div
+      class="footerstyles__FirstRow-sc-10tn4u7-1 inUKxH"
+    >
+      <h4>
+        laudrr.
+      </h4>
+      <h5>
+        Connecting you to your favourite channels
+      </h5>
+    </div>
+    <div
+      class="footerstyles__SecondRow-sc-10tn4u7-2 tFGxd"
+    >
+      <div
+        class="footerstyles__CopyrightColumn-sc-10tn4u7-3 gia-dzP"
+      >
+        <a
+          href="/"
+        >
+          Terms of service
+        </a>
+        <a
+          href="/"
+        >
+          Privacy
+        </a>
+        <a
+          href="/"
+        >
+          Site credits
+        </a>
+        <span>
+          © laudrr 2020
+        </span>
+      </div>
+      <div
+        class="footerstyles__Contact-sc-10tn4u7-4 kxdeXW"
+      >
+        <h2>
+          Get in touch
+        </h2>
+        <h4>
+          We communicate primarily via mail
+        </h4>
+        <h4>
+          Contact us on 
+        </h4>
+         
+        <a
+          href="mailto:info@laudrr.com?subject=Contact%laudrr"
+        >
+          info@laudrr.com
+        </a>
+      </div>
+    </div>
+  </footer>
+</div>
+`;

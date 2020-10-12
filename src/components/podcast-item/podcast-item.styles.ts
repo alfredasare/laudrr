@@ -6,12 +6,11 @@ export const PodcastItemWrapper = styled.div`
   flex-direction: column;
   justify-content: flex-start;
   //align-items: center;
-  width: 100%;
 `;
 
 export const PodcastImageWrapper = styled.div`
-  height: 120px;
-  width: 120px;
+  height: 110px;
+  width: 110px;
   margin-bottom: 10px;
   
   img {
@@ -24,7 +23,7 @@ export const PodcastImageWrapper = styled.div`
 `;
 
 export const PodcastTitleContainer = styled.div`
-  width: 120px;
+  width: 110px;
 
   p {
     color: ${black};
